@@ -5,5 +5,8 @@
 
 -The project demonstrates the ability to clean, analyze, and visualize data using Microsoft Excel.
 
-### Customers That Purchased a Bike 
-![](purchased.jpeg)
+### Customers That Purchased a Bike
+![](purchased.jpg)
+
+### Customers That Did Not Purchase a Bike
+![](didnt_purchase.jpg)
