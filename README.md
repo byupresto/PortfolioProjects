@@ -6,4 +6,4 @@
 -The project demonstrates the ability to clean, analyze, and visualize data using Microsoft Excel.
 
 ### Customers That Purchased a Bike 
-![](Purchased Bike.jpeg)
+![](purchased.jpeg)
