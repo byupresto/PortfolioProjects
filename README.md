@@ -4,3 +4,6 @@
 -This project analyzes the sales pattern of a bike shop across different customer demographics. The data used for this analysis set was provided by and used with the permission of Alex Freiburg @AlextheAnaylst on YouTube.
 
 -The project demonstrates the ability to clean, analyze, and visualize data using Microsoft Excel.
+
+### Customers That Purchased a Bike 
+![](Purchased Bike.jpeg)
